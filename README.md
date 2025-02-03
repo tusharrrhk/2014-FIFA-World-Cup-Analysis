@@ -1,7 +1,8 @@
 # 2014 FIFA World Cup Analysis
 
 The 2014 FIFA World Cup, held in Brazil, united 32 nations in an unforgettable tournament featuring 64 matches across 12 host cities. 
-This project uses data modeling, analysis, and visualization to uncover trends and insights about the tournament.
+This project uses data modeling, analysis, and visualization to uncover trends and insights about the tournament.<br><br>
+Dashboard Link : *Coming soon...*
 <p align="center">
 <img src="logo.jpg" alt="Logo" width="250" height="350">
 
