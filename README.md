@@ -19,11 +19,13 @@ This analysis has been done using Power BI which explores the 2014 FIFA World Cu
 ---
 
 ## 📂 **Dataset**
-The dataset used in this project includes detailed information about the 2014 FIFA World Cup, featuring:
+The dataset used in this project was provided by my university which includes detailed information about the 2014 FIFA World Cup, featuring:
 - **Matches**: Match details such as dates, host cities, scores, and stadiums.
 - **Players**: Player details including age, club affiliations, positions, and international appearances.
 - **Goals and Assists**: Goals scored, assists made, and players' contributions to their teams.
 - **Cards**: Yellow and red cards received, fouls committed, and disciplinary records.
+<p align="center">
+<img src="Data Modelling.png" alt="Logo" width="350">
 
 ---
 
@@ -35,7 +37,7 @@ The dataset used in this project includes detailed information about the 2014 FI
 2. **New Tables**:
    - **Goals per Nation**: Summarized a new table having each country with the number of goals scored.
    - **Players with a goal**: Summarised players who have scored atleast one goal in the tournament.
-   - 
+
 4. **New Columns**:
    - Age category: Grouped players into senior, experienced, young and teen.
    - Week: Categorized the tournament based on week cycle.
