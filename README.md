@@ -3,7 +3,7 @@
 The 2014 FIFA World Cup, held in Brazil, united 32 nations in an unforgettable tournament featuring 64 matches across 12 host cities. 
 This project uses data modeling, analysis, and visualization to uncover trends and insights about the tournament.
 <p align="center">
-<img src="logo.jpg" alt="Logo" width="350">
+<img src="logo.jpg" alt="Logo" width="250" height="350">
 
 
 ---
@@ -25,7 +25,7 @@ The dataset used in this project was provided by my university which includes de
 - **Goals and Assists**: Goals scored, assists made, and players' contributions to their teams.
 - **Cards**: Yellow and red cards received, fouls committed, and disciplinary records.
 <p align="center">
-<img src="Data Modelling.png" alt="Logo" width="350">
+<img src="Data Modelling.png" alt="Logo" width="800" height="450">
 
 ---
 
